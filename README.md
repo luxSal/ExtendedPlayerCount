@@ -17,7 +17,14 @@ Raises the Gatekeeper co-op lobby size beyond the vanilla cap of **4 players**.
 
 ## Installation
 
-1. Install BepInEx into your Gatekeeper folder
+### With Thunderstore Mod Manager (recommended)
+1. Install [Thunderstore Mod Manager](https://www.overwolf.com/app/Thunderstore-Thunderstore_Mod_Manager)
+2. Search for **ExtendedPlayerCount** in the Gatekeeper section
+3. Click **Install**
+4. Launch Gatekeeper through the mod manager
+
+### Manual
+1. Install [BepInEx IL2CPP](https://builds.bepinex.dev/projects/bepinex_be/725/BepInEx-Unity.IL2CPP-win-x64-6.0.0-be.725+e1974e2.zip) into your Gatekeeper folder
 2. Drop `ExtendedPlayerCount.dll` into:
    `BepInEx/plugins/ExtendedPlayerCount/`
 3. Launch the game once to generate the config file
