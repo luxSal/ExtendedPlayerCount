@@ -1,0 +1,12 @@
+C:\Mods\files\obj\Release\net6.0\ExtendedPlayerCount.csproj.AssemblyReference.cache
+C:\Mods\files\obj\Release\net6.0\ExtendedPlayerCount.GeneratedMSBuildEditorConfig.editorconfig
+C:\Mods\files\obj\Release\net6.0\ExtendedPlayerCount.AssemblyInfoInputs.cache
+C:\Mods\files\obj\Release\net6.0\ExtendedPlayerCount.AssemblyInfo.cs
+C:\Mods\files\obj\Release\net6.0\ExtendedPlayerCount.csproj.CoreCompileInputs.cache
+C:\Mods\files\bin\Release\net6.0\ExtendedPlayerCount.deps.json
+C:\Mods\files\bin\Release\net6.0\ExtendedPlayerCount.dll
+C:\Mods\files\bin\Release\net6.0\ExtendedPlayerCount.pdb
+C:\Mods\files\obj\Release\net6.0\ExtendedPlayerCount.dll
+C:\Mods\files\obj\Release\net6.0\refint\ExtendedPlayerCount.dll
+C:\Mods\files\obj\Release\net6.0\ExtendedPlayerCount.pdb
+C:\Mods\files\obj\Release\net6.0\ref\ExtendedPlayerCount.dll
