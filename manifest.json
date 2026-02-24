@@ -1,9 +1,9 @@
 {
   "name": "ExtendedPlayerCount",
-  "version_number": "1.0.0",
+  "version_number": "1.1.0",
   "website_url": "https://github.com/luxSal/ExtendedPlayerCount",
   "description": "Raises the Gatekeeper co-op lobby cap above the vanilla maximum of 4. Configurable from 1 to 16 players. All players in the session must have this mod installed.",
   "dependencies": [
-    "BepInEx-BepInExPack_IL2CPP-6.0.725"
+    "BepInEx-BepInExPack_IL2CPP-6.0.733"
   ]
 }
