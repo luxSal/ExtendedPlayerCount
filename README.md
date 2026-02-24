@@ -5,7 +5,7 @@ Raises the Gatekeeper co-op lobby size beyond the vanilla cap of **4 players**.
 ## Features
 
 - Set your lobby size anywhere from **1 to 16 players**
-- Default cap is **6 players**
+- Default cap is **8 players**
 - Fully configurable via the BepInEx config file
 - No game files modified — safe to remove at any time
 
@@ -35,7 +35,7 @@ Edit `BepInEx/config/com.yourname.extendedplayercount.cfg`:
 
 ```
 [General]
-MaxPlayers = 6
+MaxPlayers = 8
 ```
 
 Change the number to anything between 1 and 16 and restart the game.
